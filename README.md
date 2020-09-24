@@ -1,0 +1,1 @@
+#### A [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker](freecodecamp project) that cheks whether a string is a [https://en.wikipedia.org/wiki/Palindrome](palindrome) or not
